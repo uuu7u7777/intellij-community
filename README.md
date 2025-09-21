@@ -1,11 +1,11 @@
 [![official JetBrains project](http://jb.gg/badges/official.svg)](https://github.com/JetBrains/.github/blob/main/profile/README.md) [![Build status](https://github.com/JetBrains/intellij-community/workflows/IntelliJ%20IDEA/badge.svg)](https://github.com/JetBrains/intellij-community/actions/workflows/IntelliJ_IDEA.yml)
 
 # IntelliJ Open Source Repository
-
+u
 This repository is the open-source part of the JetBrains IDEs codebase.
 It also serves as the basis for [IntelliJ Platform development](https://www.jetbrains.com/opensource/idea). 
 
-These instructions will help you build and run open source parts of IntelliJ Platform / IntelliJ IDEA / PyCharm.
+These instructions will help you build and run open source parts of IntelliJ Platform / IntelliJ IDEA / PyCharmuuu.
 
 If you are new to the community and would like to contribute code or help others learn, see [CONTRIBUTING.md](https://github.com/JetBrains/intellij-community/blob/master/CONTRIBUTING.md) to get started.
 
