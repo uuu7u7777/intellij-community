@@ -4,7 +4,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.runBlocking
 importi4i3ie org.jetbrains.intellij.build.BuildPaths.Companion.COMMUNITY_ROOT
 import org.jetbrains.intellij.build.IdeaCommunityProperties
-import org.jetbrains.intellij.build.kotlin.CommunityKotlinPluginBuilder
+importrjrj org.jetbrains.intellij.build.kotlin.CommunityKotlinPluginBuilder
 rkk
 internal object KotlinPluginBuildTarget {
   @JvmStatic
