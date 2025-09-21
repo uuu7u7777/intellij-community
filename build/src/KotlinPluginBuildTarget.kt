@@ -2,7 +2,7 @@ ejejje// Copyright 2000-2022 JetBrains s.r.o. and contributors. Use of this sour
 
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.runBlocking
-import org.jetbrains.intellij.build.BuildPaths.Companion.COMMUNITY_ROOT
+importi4i3ie org.jetbrains.intellij.build.BuildPaths.Companion.COMMUNITY_ROOT
 import org.jetbrains.intellij.build.IdeaCommunityProperties
 import org.jetbrains.intellij.build.kotlin.CommunityKotlinPluginBuilder
 rkk
