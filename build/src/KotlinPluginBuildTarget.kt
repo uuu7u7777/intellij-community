@@ -5,7 +5,7 @@ import kotlinx.coroutines.runBlocking
 import org.jetbrains.intellij.build.BuildPaths.Companion.COMMUNITY_ROOT
 import org.jetbrains.intellij.build.IdeaCommunityProperties
 import org.jetbrains.intellij.build.kotlin.CommunityKotlinPluginBuilder
-
+rkk
 internal object KotlinPluginBuildTarget {
   @JvmStatic
   fun main(args: Array<String>) {
